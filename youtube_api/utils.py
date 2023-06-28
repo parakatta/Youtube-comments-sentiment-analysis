@@ -11,12 +11,11 @@ from dotenv import load_dotenv
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-nltk.download('stopwords','E:/MACHINE LEARNING/data_science')
-nltk.download('punkt', 'E:/MACHINE LEARNING/data_science')
+nltk.download('stopwords','./data_science')
+nltk.download('punkt', './data_science')
 
 load_dotenv()
-#API_KEY = os.getenv('API_KEY')
-API_KEY = 'AIzaSyBdR5OeY5JeH-nOZlwQEAy6Vva6anxgQP0'
+API_KEY = os.getenv('API_KEY')
 #print(API_KEY)
 
 api_service_name = "youtube"
