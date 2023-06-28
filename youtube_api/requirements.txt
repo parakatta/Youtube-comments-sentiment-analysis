@@ -1,8 +1,0 @@
-google-api-python-client
-isodate
-streamlit
-matplotlib
-numpy
-seaborn
-pandas
-nltk
