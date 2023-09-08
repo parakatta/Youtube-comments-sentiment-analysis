@@ -8,5 +8,5 @@ The package 'lstm_model' contains files that can be used to run the model.
 The architecture for the lstm model :
 ![image](https://github.com/parakatta/Youtube-comments-sentiment-analysis/assets/83866928/241d9954-f144-4b8d-b172-cdf75ee6fd79)
 
-```pip install -r lstm_model/requirements.txt/'''
-
+```
+pip install -r lstm_model/requirements.txt
